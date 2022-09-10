@@ -1,3 +1,5 @@
+dev:
+	yarn dev
 ca:
 	git add .
 	git commit -m "commit all"
