@@ -1,3 +1,3 @@
 <temaplte>
-  <h1>child></h1>
+  <h1>child</h1>
 </temaplte>
